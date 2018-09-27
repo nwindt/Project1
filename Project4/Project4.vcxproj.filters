@@ -2,7 +2,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\RTExamples\rt.cpp" />
-    <ClCompile Include="Parent.cpp" />
+    <ClCompile Include="Parrent.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\..\RTExamples\rt.h" />
